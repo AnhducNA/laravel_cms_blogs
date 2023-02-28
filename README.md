@@ -2,7 +2,7 @@
 
 ## Đề bài: Đề bài yêu cầu tạo một CMS với những tính năng CRUD cơ bản
 
-### Thực hiện bởi: [Ngô Minh Hòa](https://github.com/EmilRailgun)
+### Thực hiện bởi: [Lê Anh Đức](https://github.com/AnhducNA)
 
 ## Các tính năng
 
